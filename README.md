@@ -1,5 +1,3 @@
-#readme.md
-
 <h2 align="left">Hi 👋! My name is Basri, and I'm Fullstack Javascript Developer from Indonesia!</h2>
 
 ###
